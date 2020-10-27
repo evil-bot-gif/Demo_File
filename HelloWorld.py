@@ -6,3 +6,5 @@ plt.plot(x, np.sin(x))       # Plot the sine of each x point
 plt.show()                   # Display the plot
 
 print ("Goodbye my Friend")
+
+print("Hello World!")
